@@ -37,6 +37,7 @@ npm install
 npm i express
 npm i mongoose
 npm i dotenv
+npm i nodemon
 ```
 
 3. Set up environment variables:
