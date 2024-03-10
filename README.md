@@ -8,7 +8,7 @@ This is the backend portion of a blog application built using the MERN (MongoDB,
 
 ## Features
 
-- like, read, post , and delete blog posts.
+- like, unlike, post ,fetchpost,create comment, and delete blog posts.
 - Add, edit, and delete comments on blog posts.
 - User authentication for registering, logging in, and logging out.
 - User profiles.
