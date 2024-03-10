@@ -26,7 +26,7 @@ To run the backend portion of this MERN stack application locally, follow these 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/mern-blog-backend.git
+https://github.com/angad9/Blog-App-Using-Backend.git
 ```
 
 2. Install dependencies:
