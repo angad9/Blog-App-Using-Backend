@@ -8,7 +8,7 @@ This is the backend portion of a blog application built using the MERN (MongoDB,
 
 ## Features
 
-- like, read, , and delete blog posts.
+- like, read, post , and delete blog posts.
 - Add, edit, and delete comments on blog posts.
 - User authentication for registering, logging in, and logging out.
 - User profiles.
@@ -44,8 +44,8 @@ npm i dotenv
 Create a `.env` file in the root directory and add the following variables:
 
 ```env
-MONGODB_URI=your_mongodb_connection_string
-SESSION_SECRET=your_session_secret
+PORT = 4000
+DATABASE_URL = your_database_url
 ```
 
 Replace `your_mongodb_connection_string` with your MongoDB connection string and `your_session_secret` with a secret key for session management.
